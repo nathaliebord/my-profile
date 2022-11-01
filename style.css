@@ -73,7 +73,7 @@ td {
 
 i {
     font-size: 48px;
-    color: orange;
+    color: rgb(217, 147, 76);
 }
 
 i:hover {
@@ -105,5 +105,7 @@ i:hover {
         box-shadow: 0 0px 0px 0 rgba(19, 39, 211, 0);
     }
 }
-
-    
+audio{
+    justify-items: center;
+}
+   div{text-align: center;} 
